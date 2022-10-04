@@ -1,16 +1,17 @@
 <h1 align="center">Hola 👋, Soy Marcos Uriel Resendiz Medina</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/114198073/193873616-6bf6f58b-8a9d-4602-840d-795949f35cac.gif" alt="animated"/>
+<img src="https://user-images.githubusercontent.com/114198073/193911853-20074524-4cab-4fb0-8d5b-2f63f64d2692.gif" alt="animated" width="635" height="200"/>
 </p>
 
-<h3 align="center">Estudiante de la carrera en Ingeniería en Software y Sistemas Computacionales</h3>
+## 🚀 Acerca de mi
+- Tengo 19 años, signo Tauro.
+- Estudiante de la carrera en **Ingeniería en Software y Sistemas Computacionales.**
+- Estudiando en la **Universidad De La Salle Bajío**
 
-- Estudiando actualmente en la **Universidad De La Salle Bajío**
-
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contactame por:</h3>
 <p align="left">
-<a href="https://fb.com/uriel resendiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Uriel Resendiz" height="30" width="40" /></a>
+<a href="https://fb.com/uriel resendiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel resendiz" height="30" width="40" /></a>
 <a href="https://instagram.com/uriel_rm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uriel_rm4" height="30" width="40" /></a>
 </p>
 
