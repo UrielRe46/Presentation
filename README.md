@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Marcos Uriel Resendiz Medina</h1>
+
+![f7bb869445d60e8b3e302f8fbd6c3cfd](https://user-images.githubusercontent.com/114198073/193873616-6bf6f58b-8a9d-4602-840d-795949f35cac.gif)
+
 <h3 align="center">Estudiante de la carrera en Ingeniería en Software y Sistemas Computacionales</h3>
-![retro](https://user-images.githubusercontent.com/114198073/193872792-ee7a9233-4ef2-45fa-9ec5-866b52f1e0ab.gif)
 
 - Estudiando actualmente en la Universidad: **De La Salle Bajío**
 
