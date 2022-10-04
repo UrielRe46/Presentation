@@ -11,7 +11,7 @@
 
 <h3 align="left">Contactame por:</h3>
 <p align="left">
-<a href="https://fb.com/uriel resendiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel resendiz" height="30" width="40" /></a>
+<a href="https://fb.com/uriel.resendiz.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel resendiz" height="30" width="40" /></a>
 <a href="https://instagram.com/uriel_rm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uriel_rm4" height="30" width="40" /></a>
 </p>
 
