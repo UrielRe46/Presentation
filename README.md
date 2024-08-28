@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Acerca de mi
-- Tengo 20 años, signo Tauro.
+- Tengo 21 años.
 - Estudiante de la carrera en **Ingeniería en Software y Sistemas Computacionales.**
 - Estudiando en la **Universidad De La Salle Bajío**
 
